@@ -1,0 +1,6 @@
+itune:
+  search: https://itunes.apple.com/search
+
+google:
+  books:
+    search: https://www.googleapis.com/books/v1/volume
