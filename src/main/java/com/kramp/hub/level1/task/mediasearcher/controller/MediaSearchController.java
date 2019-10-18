@@ -15,12 +15,4 @@ import com.kramp.hub.level1.task.mediasearcher.service.ItuneService;
 @RestController
 public class MediaSearchController {
 
-    @Autowired
-    ItuneService ituneService;
-
-    @RequestMapping(value = "/search", method= RequestMethod.GET)
-    public @ResponseBody List<Media> getAlbums() {
-        List<Media> albums = ituneService.getAlbums(MediaContentType.ALBUM,"love");
-        return albums;
-    }
 }

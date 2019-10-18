@@ -1,9 +1,11 @@
 package com.kramp.hub.level1.task.mediasearcher.model;
 
+import java.util.List;
+
 public class Media {
 
     private String title;
-    private String authorName;
+    private List<String> authorName;
     private String artistName;
     private MediaContentType mediaType;
 	public String getTitle() {
@@ -12,10 +14,10 @@ public class Media {
 	public void setTitle(String title) {
 		this.title = title;
 	}
-	public String getAuthorName() {
+	public List<String> getAuthorName() {
 		return authorName;
 	}
-	public void setAuthorName(String authorName) {
+	public void setAuthorName(List<String> authorName) {
 		this.authorName = authorName;
 	}
 	public String getArtistName() {

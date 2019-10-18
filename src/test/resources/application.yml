@@ -3,4 +3,4 @@ itune:
 
 google:
   books:
-    search: https://www.googleapis.com/books/v1/volume
+    search: https://www.googleapis.com/books/v1/volumes

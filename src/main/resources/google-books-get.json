@@ -1,0 +1,829 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 2609,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "a-pQSxS3SBgC",
+   "etag": "JPSkyDafzPA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/a-pQSxS3SBgC",
+   "volumeInfo": {
+    "title": "Not Without My Daughter",
+    "authors": [
+     "Betty Mahmoody",
+     "William Hoffer"
+    ],
+    "publisher": "Random House",
+    "publishedDate": "2004-05-07",
+    "description": "\"An Iranian doctor living in America with his American wife Betty and their child Mahtob wants to see his homeland again. He convinces his wife to take a short holiday there with him and Mahtob. Betty is reluctant, as Iran is not a pleasant place, especially if you are American and female. Upon arrival in Iran, it appears that her worst fears are realized: Moody declares that they will be living there from now on. Betty is determined to escape from Iran, but taking her daughter with her presents a larger problem.\"",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780552152167"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0552152161"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 528,
+    "printType": "BOOK",
+    "categories": [
+     "Americans"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 16,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.13.5.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=a-pQSxS3SBgC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=a-pQSxS3SBgC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.in/books?id=a-pQSxS3SBgC&dq=daughter&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.co.in/books?id=a-pQSxS3SBgC&dq=daughter&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Not_Without_My_Daughter.html?hl=&id=a-pQSxS3SBgC"
+   },
+   "saleInfo": {
+    "country": "IN",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "IN",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=a-pQSxS3SBgC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&#39;You are here for the rest of your life. Do you understand? You are not leaving Iran. You are here until you die.&#39;Betty Mahmoody and her husband, Dr Sayyed Bozorg Mahmoody (&#39;Moody&#39;), came to Iran from the USA to meet Moody&#39;s family."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7A3JAwAAQBAJ",
+   "etag": "BsPiLM5BNxM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7A3JAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Daughter",
+    "authors": [
+     "Jane Shemilt"
+    ],
+    "publisher": "Penguin UK",
+    "publishedDate": "2014-08-28",
+    "description": "There's a stranger in your daughter's room. It's your daughter. ** THE SUNDAY TIMES BESTSELLER AND RUNAWAY RICHARD & JUDY PHENOMENON ** One Year Gone . . . Naomi is missing. Jenny is a mother on the brink of obsession. The Malcolm family is in pieces. Is finding her the only way to put them back together? Or will the truth about Naomi finally tear them apart? 'We absolutely loved this' Richard & Judy Book Club 'Thrilling' Sunday Express 'Taut and thought-provoking' Woman & Home 'You won't be able to put it down' Tess Gerritsen 'Gripping to the last page!' My Weekly 'Clever' Sun 'Utterly gripping' Mail On Sunday ** IF YOU LOVED DAUGHTER, DON'T MISS JANE'S NEW BOOK HOW FAR WE FALL, AVAILABLE TO PRE-ORDER NOW! **",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781405915304"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1405915307"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 368,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 15,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.16.15.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=7A3JAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=7A3JAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.in/books?id=7A3JAwAAQBAJ&printsec=frontcover&dq=daughter&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=7A3JAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=7A3JAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "IN",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 400.02,
+     "currencyCode": "INR"
+    },
+    "retailPrice": {
+     "amount": 280.01,
+     "currencyCode": "INR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=7A3JAwAAQBAJ&rdid=book-7A3JAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.0002E8,
+       "currencyCode": "INR"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.8001E8,
+       "currencyCode": "INR"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "IN",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.co.in/books/download/Daughter-sample-epub.acsm?id=7A3JAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=7A3JAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Or will discovering the truth about Naomi finally tear them apart? &#39;We absolutely loved this&#39; Richard &amp; Judy Book Club &#39;Thrilling&#39; Sunday Express &#39;Taut and thought-provoking&#39; Woman &amp; Home &#39;Clever&#39; Sun &#39;Utterly gripping&#39; Mail On Sunday"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HCSzO4nswNwC",
+   "etag": "5CLlALzDZE0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HCSzO4nswNwC",
+   "volumeInfo": {
+    "title": "A Daughter of the Land",
+    "authors": [
+     "Gene Stratton-Porter"
+    ],
+    "publisher": "Applewood Books",
+    "publishedDate": "2010-05-12",
+    "description": "The main character in this story of a young woman's ambition to own and cultivate a large farm is Kate Bates, another Gene Stratton-Porter unsung hero. As the youngest child, and female, in a large properous farm family, she has been designated as her mother's helper in old age. Kate finds this unfair since all of her brothers have been given land and the older sisters sent to teaching training. With the help of a nephew and sister-in-law, she defies her parents, becomes a teacher, and leaves home. After rejecting the easy path to her dream of owning her own farm, she suffers through a bad marriage but ultimately acquires her land and achieves happiness.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781429044547"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1429044543"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 488,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=HCSzO4nswNwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=HCSzO4nswNwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.in/books?id=HCSzO4nswNwC&printsec=frontcover&dq=daughter&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.co.in/books?id=HCSzO4nswNwC&dq=daughter&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_Daughter_of_the_Land.html?hl=&id=HCSzO4nswNwC"
+   },
+   "saleInfo": {
+    "country": "IN",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "IN",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=HCSzO4nswNwC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The main character in this story of a young woman&#39;s ambition to own and cultivate a large farm is Kate Bates, another Gene Stratton-Porter unsung hero."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-fKADwAAQBAJ",
+   "etag": "POsexu7nAqI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-fKADwAAQBAJ",
+   "volumeInfo": {
+    "title": "Hunger's Daughters",
+    "authors": [
+     "Nirmala Govindarajan"
+    ],
+    "publisher": "Om Books International",
+    "publishedDate": "2018-11-30",
+    "description": "She lives in a forest hamlet in Orissa. With a father presumed dead and a mother gone missing, Susanthi Bodra is compelled to become a breadwinner at the age of twelve. Eight-year-old Nelli runs away from her mistress’s home, but is kidnapped and sold into a brothel in Nagpur. Two decades have passed, and she is yet to return to her hamlet Kithapur. Gowravva, her mother, is on the hunt to find her precious daughter. From the home of the Lesser Known Goddess to the chilli fields of a mother who has long lost her daughter; from the plush residence of a powerful minister to a vedic ashram, Nainika Chandra, a journalist and the narrator in Hunger’s Daughters, brings together the stories of young breadwinners from the forest hamlets of Jharkhand, Orissa and Karnataka. The book binds the unexplored shades of poverty and power, with an underlying story of love.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789352766819"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9352766814"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 298,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=-fKADwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=-fKADwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.in/books?id=-fKADwAAQBAJ&printsec=frontcover&dq=daughter&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=-fKADwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=-fKADwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "IN",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 116.82,
+     "currencyCode": "INR"
+    },
+    "retailPrice": {
+     "amount": 116.82,
+     "currencyCode": "INR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=-fKADwAAQBAJ&rdid=book--fKADwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.1682E8,
+       "currencyCode": "INR"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.1682E8,
+       "currencyCode": "INR"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "IN",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.co.in/books/download/Hunger_s_Daughters-sample-epub.acsm?id=-fKADwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.co.in/books/download/Hunger_s_Daughters-sample-pdf.acsm?id=-fKADwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=-fKADwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The book binds the unexplored shades of poverty and power, with an underlying story of love."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oG50AAAAIAAJ",
+   "etag": "UzC/9l/wmjc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oG50AAAAIAAJ",
+   "volumeInfo": {
+    "title": "The Daughter",
+    "subtitle": "A Novel",
+    "authors": [
+     "Paulos Matesis"
+    ],
+    "publisher": "Arcadia Books Limited",
+    "publishedDate": "2002",
+    "description": "Winner of the Greek Critics' Award 2000. This description of rural Greece during German occupation and civil war tells the story of Meskaris, a young mother who takse an Italian lover while her husband is away fighting, takes as her lover a shy Italian soldier. With victory, the villagers will exact a terrible revenge.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCSC:32106016032150"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 214,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=oG50AAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=oG50AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.in/books?id=oG50AAAAIAAJ&q=daughter&dq=daughter&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.co.in/books?id=oG50AAAAIAAJ&dq=daughter&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Daughter.html?hl=&id=oG50AAAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "IN",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "IN",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=oG50AAAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This description of rural Greece during German occupation and civil war tells the story of Meskaris, a young mother who takse an Italian lover while her husband is away fighting, takes as her lover a shy Italian soldier."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KaX90OHpoFcC",
+   "etag": "Nx5PLSWK8fk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KaX90OHpoFcC",
+   "volumeInfo": {
+    "title": "To My Daughter with Love",
+    "subtitle": "On the Important Things in Life",
+    "authors": [
+     "Susan Polis Schutz"
+    ],
+    "publisher": "Blue Mountain Arts, Inc.",
+    "publishedDate": "2007",
+    "description": "This elegant new edition of Susan Polis Schutz's most beloved work includes the poems and advice of earlier editions, plus new poems inspired by her daughter growing up into a young woman and leaving home. Steven Schutz's sensitive ilustrations envelop Susan's poetry in an artistic expression of his love for his daughter and her mother. The result is a loving celebration of the joy and pride that all parents feel for their unique, beautiful daughters.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1598421727"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781598421729"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 96,
+    "printType": "BOOK",
+    "categories": [
+     "Family & Relationships"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=KaX90OHpoFcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=KaX90OHpoFcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.in/books?id=KaX90OHpoFcC&pg=PA15&dq=daughter&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.co.in/books?id=KaX90OHpoFcC&dq=daughter&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/To_My_Daughter_with_Love.html?hl=&id=KaX90OHpoFcC"
+   },
+   "saleInfo": {
+    "country": "IN",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "IN",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=KaX90OHpoFcC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Love You Every Minute of Every Day, My Beautiful \u003cb\u003eDaughter\u003c/b\u003e looked at you today \u003cbr\u003e\nand saw the same beautiful eyes that looked at me with love when you were a \u003cbr\u003e\nbaby I looked at you today and saw the same beautiful mouth that made me cry&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qntQu0RRlx4C",
+   "etag": "gW+u0aNIDWo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qntQu0RRlx4C",
+   "volumeInfo": {
+    "title": "The Daughter of the Maestro",
+    "subtitle": "Life in Surabaya, Shanghai, and Florence",
+    "authors": [
+     "Floria Paci Zaharoff"
+    ],
+    "publisher": "iUniverse",
+    "publishedDate": "2005",
+    "description": "Before the current re-birth of Shanghai and before the stagnation brought on by China's Cultural Revolution, there was a vibrant European community in Shanghai. An important element of this cultural oasis in China during the first half of the 1900's was the musical efforts of Maestro Mario Paci, an Italian pianist and conductor who reorganized the Shanghai Symphony Orchestra and taught piano and singing to a large number of devoted Chinese and European pupils. Intertwined with her father's life, Floria, the Maestro's daughter, shares her memoirs, from being born in Surabaya, Java to her English schooling in Shanghai and trips to Italy.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780595359769"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0595359760"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 308,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=qntQu0RRlx4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=qntQu0RRlx4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.in/books?id=qntQu0RRlx4C&printsec=frontcover&dq=daughter&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.co.in/books?id=qntQu0RRlx4C&dq=daughter&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Daughter_of_the_Maestro.html?hl=&id=qntQu0RRlx4C"
+   },
+   "saleInfo": {
+    "country": "IN",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "IN",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=qntQu0RRlx4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Intertwined with her father&#39;s life, Floria, the Maestro&#39;s daughter, shares her memoirs, from being born in Surabaya, Java to her English schooling in Shanghai and trips to Italy."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "o1i2oAGxTksC",
+   "etag": "pROJa9eai9U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/o1i2oAGxTksC",
+   "volumeInfo": {
+    "title": "Chicken Soup for the Mother & Daughter Soul",
+    "subtitle": "Stories to Warm the Heart and Honor the Relationship",
+    "authors": [
+     "Jack Canfield",
+     "Mark Victor Hansen"
+    ],
+    "publisher": "Simon and Schuster",
+    "publishedDate": "2012-08-07",
+    "description": "The relationship between a mother and daughter is one of the most profound bonds in life. A mother feels her daughter's first kick during pregnancy, labors to bring her daughter into the world and watches as she takes her first breath of life. Similarly, a daughter opens up a new world and range of emotions to her mother, allowing her to feel an unconditional love she didn't know she possessed.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781453276877"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1453276874"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 384,
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.7.6.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=o1i2oAGxTksC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=o1i2oAGxTksC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.in/books?id=o1i2oAGxTksC&printsec=frontcover&dq=daughter&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=o1i2oAGxTksC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=o1i2oAGxTksC"
+   },
+   "saleInfo": {
+    "country": "IN",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 607.7,
+     "currencyCode": "INR"
+    },
+    "retailPrice": {
+     "amount": 303.85,
+     "currencyCode": "INR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=o1i2oAGxTksC&rdid=book-o1i2oAGxTksC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 6.077E8,
+       "currencyCode": "INR"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.0385E8,
+       "currencyCode": "INR"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "IN",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.co.in/books/download/Chicken_Soup_for_the_Mother_Daughter_Sou-sample-epub.acsm?id=o1i2oAGxTksC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=o1i2oAGxTksC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The relationship between a mother and daughter is one of the most profound bonds in life."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "itCzJUc0-N4C",
+   "etag": "VKqB7qTJbQQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/itCzJUc0-N4C",
+   "volumeInfo": {
+    "title": "Endangered Daughters",
+    "subtitle": "Discrimination and Development in Asia",
+    "authors": [
+     "Elisabeth Croll"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "2000",
+    "description": "Wishing for a son",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0415247640"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415247641"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 207,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=itCzJUc0-N4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=itCzJUc0-N4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.in/books?id=itCzJUc0-N4C&printsec=frontcover&dq=daughter&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.co.in/books?id=itCzJUc0-N4C&dq=daughter&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Endangered_Daughters.html?hl=&id=itCzJUc0-N4C"
+   },
+   "saleInfo": {
+    "country": "IN",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "IN",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.co.in/books/download/Endangered_Daughters-sample-epub.acsm?id=itCzJUc0-N4C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.co.in/books/download/Endangered_Daughters-sample-pdf.acsm?id=itCzJUc0-N4C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=itCzJUc0-N4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Wishing for a son"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2paIDwAAQBAJ",
+   "etag": "EcEn1Ogyp/o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2paIDwAAQBAJ",
+   "volumeInfo": {
+    "title": "The Daughter",
+    "subtitle": "A Mother's Love, a Daughter's Secret, a Thriller Full of Twists from the Author of The Girlfriend",
+    "authors": [
+     "Michelle Frances"
+    ],
+    "publisher": "Pan Macmillan",
+    "publishedDate": "2019-06-27",
+    "description": "The Daughter is a gripping, powerful story of a mother's courage and devotion, by the number one bestselling author of The Girlfriend. Getting pregnant as a teenager was never part of Kate's plan, but when it happens she's determined to do right by her daughter, showing her the love she never had as a child. Life as a single mother is hard, sometimes impossible, but it only brings Kate and Becky closer together. By the time Becky is making her own way in the world as a tenacious trainee journalist, Kate couldn't be prouder. But when the unthinkable happens, Kate's life is changed forever. Desperately trying to understand, Kate stumbles across a story Becky was researching. Is it possible that this cruel twist of fate wasn't an accident? PRAISE FOR MICHELLE FRANCES ‘I was blown away . . . Marvellous’ - Jilly Cooper ‘Sharp, sinister and addictive’ - Sunday Mirror ‘Taut and suspenseful’ - Heat ‘Abounding with mysteries, revelations and lies’ - Library Journal",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781509821532"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1509821538"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.1.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=2paIDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=2paIDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.in/books?id=2paIDwAAQBAJ&printsec=frontcover&dq=daughter&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=2paIDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=2paIDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "IN",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 365.23,
+     "currencyCode": "INR"
+    },
+    "retailPrice": {
+     "amount": 255.66,
+     "currencyCode": "INR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=2paIDwAAQBAJ&rdid=book-2paIDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.6523E8,
+       "currencyCode": "INR"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.5566E8,
+       "currencyCode": "INR"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "IN",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.co.in/books/download/The_Daughter-sample-epub.acsm?id=2paIDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=2paIDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Desperately trying to understand, Kate stumbles across a story Becky was researching. Is it possible that this cruel twist of fate wasn&#39;t an accident? PRAISE FOR MICHELLE FRANCES ‘I was blown away . . ."
+   }
+  }
+ ]
+}
