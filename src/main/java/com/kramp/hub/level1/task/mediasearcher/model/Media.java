@@ -2,6 +2,10 @@ package com.kramp.hub.level1.task.mediasearcher.model;
 
 import java.util.List;
 
+import com.fasterxml.jackson.annotation.JsonInclude;
+import com.fasterxml.jackson.annotation.JsonInclude.Include;
+
+@JsonInclude(Include.NON_NULL)
 public class Media {
 
     private String title;
@@ -32,6 +36,5 @@ public class Media {
 	public void setMediaType(MediaContentType mediaType) {
 		this.mediaType = mediaType;
 	}
-    
     
 }
