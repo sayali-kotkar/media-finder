@@ -27,9 +27,9 @@ public class MediaSearchControllerTest {
     public void testGetMedia() throws Exception {
       
         ResponseEntity<MediaItems> response = restTemplate.getForEntity
-        		(createURLWithPort("/search") + "?searchString=friends", MediaItems.class);
+        		(createURLWithPort("/media") + "?searchString=friends", MediaItems.class);
 
-        assertThat(response.getBody().getTotalItems() > 0, Matchers.is(true));
+        assertThat(response.getBody().getTotalItems() == 10, Matchers.is(true));
 
     }    
 

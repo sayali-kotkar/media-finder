@@ -7,5 +7,5 @@ import com.kramp.hub.level1.task.mediasearcher.model.Media;
 
 public interface MediaFinderService {
 
-	public List<Media> getMedia(String searchString) throws InterruptedException, ExecutionException;
+	public List<Media> getMedia(String searchString, int limit) throws InterruptedException, ExecutionException;
 }

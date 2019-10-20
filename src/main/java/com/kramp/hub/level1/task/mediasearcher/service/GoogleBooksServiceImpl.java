@@ -20,12 +20,10 @@ public class GoogleBooksServiceImpl implements GoogleBooksService {
 	@Autowired
 	RestTemplate restTemplate;
 
-	public List<Media> getBooks(String searchString) {
+	public List<Media> getBooks(String searchString, int limit) {
 
-		String finalURL = searchUrl + "?q=searchString";
+		String finalURL = searchUrl + "?q=" + searchString + "&maxResults=" + limit;
 		GoogleBooks googleBooks = restTemplate.getForEntity(finalURL, GoogleBooks.class, searchString).getBody();
-	//	List<GoogleBooks> ituneContents = iTuneContents.getResults();
-	//	List<Media> mediaList = ituneContents.stream().map(m -> m.convertToMediaObj()).collect(Collectors.toList());
 		List<Media> mediaList = googleBooks.getItems().stream().map(b -> b.convertToMediaObj()).collect(Collectors.toList());
 		return  mediaList;
 	}

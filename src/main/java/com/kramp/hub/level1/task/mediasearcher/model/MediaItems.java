@@ -12,6 +12,16 @@ public class MediaItems {
 	private int totalItems;
 	private List<Media> items;
 
+	public MediaItems() {
+		// TODO Auto-generated constructor stub
+	}
+	
+	public MediaItems(int totalItems, List<Media> items) {
+		super();
+		this.totalItems = totalItems;
+		this.items = items;
+	}
+
 	public int getTotalItems() {
 		return totalItems;
 	}

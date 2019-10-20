@@ -7,6 +7,6 @@ import com.kramp.hub.level1.task.mediasearcher.model.MediaContentType;
 
 
 public interface ItuneService {
-	public List<Media> getAlbums(MediaContentType mediaType, String searchString);
+	public List<Media> getAlbums(MediaContentType mediaType, String searchString, int limit);
 
 }

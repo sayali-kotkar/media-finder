@@ -23,7 +23,7 @@ public class GoogleServiceImplTest {
    
 	@Test
     public void getAlbumTestToCheckConnectivity() {
-      List<Media> ituneContent = googleServiceImpl.getBooks("daughter");
+      List<Media> ituneContent = googleServiceImpl.getBooks("daughter", 5);
       assertThat(ituneContent.size() > 0, Matchers.is(true));
       assertThat(ituneContent.get(0).getAuthorName().size() > 0, Matchers.is(true));
       assertThat(ituneContent.get(0).getTitle(),Matchers.notNullValue());

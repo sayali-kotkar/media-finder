@@ -6,5 +6,6 @@ import com.kramp.hub.level1.task.mediasearcher.model.Media;
 
 public interface GoogleBooksService {
 
-	public List<Media> getBooks(String searchString);
+	public List<Media> getBooks(String searchString, int limit);
 }
+	

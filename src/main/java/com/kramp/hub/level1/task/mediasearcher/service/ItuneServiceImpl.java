@@ -22,9 +22,10 @@ public class ItuneServiceImpl implements ItuneService{
 	@Autowired
 	RestTemplate restTemplate;
 
-	public List<Media> getAlbums(MediaContentType mediaType, String searchString) {
+	@Override
+	public List<Media> getAlbums(MediaContentType mediaType, String searchString, int limit) {
 
-		String finalURL = searchUrl + "?term=" + searchString + "&entity=" + mediaType.label();
+		String finalURL = searchUrl + "?term=" + searchString + "&entity=" + mediaType.label() + "&limit=" + limit;
 		ItuneContents iTuneContents = restTemplate.getForEntity(finalURL, ItuneContents.class, searchString).getBody();
         List<ItuneContent> ituneContents =  iTuneContents.getResults();
         List<Media> mediaList = ituneContents.stream().map(m -> m.convertToMediaObj()).collect(Collectors.toList());

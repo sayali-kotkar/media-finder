@@ -23,7 +23,7 @@ public class ItuneServiceImplTest {
    
 	@Test
     public void getAlbumTestToCheckConnectivity() {
-      List<Media> ituneContent = ituneServiceImpl.getAlbums(MediaContentType.ALBUM, "love");
+      List<Media> ituneContent = ituneServiceImpl.getAlbums(MediaContentType.ALBUM, "love", 10);
       assertThat(ituneContent.size() > 0, Matchers.is(true));
       assertThat(ituneContent.get(0).getArtistName(),Matchers.notNullValue());
       assertThat(ituneContent.get(0).getTitle(),Matchers.notNullValue());

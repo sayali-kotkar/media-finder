@@ -28,7 +28,7 @@ public class MediaFinderServiceImplTest {
 	
 	@Test
 	public void getMediaBasicTest() throws InterruptedException, ExecutionException {
-		List<Media> mediaContents = mediaFinderService.getMedia("love");
+		List<Media> mediaContents = mediaFinderService.getMedia("love", 5);
 	    assertThat(mediaContents.size() > 2, Matchers.is(true));
 	    
 	    List<Media> distinctMedia = mediaContents.stream().filter(distinctByKey(m -> m.getMediaType().label()))
