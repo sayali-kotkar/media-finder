@@ -1,10 +1,12 @@
+spring:
+  application:
+          name: media-finder-service
 itune:
   search: https://itunes.apple.com/search
 
 google:
   books:
     search: https://www.googleapis.com/books/v1/volumes
-
 
 media:
   search:
@@ -21,5 +23,3 @@ hystrix:
     execution:
      timeout:
       enabled: false
-	
-
