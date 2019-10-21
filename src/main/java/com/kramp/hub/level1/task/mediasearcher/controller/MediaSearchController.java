@@ -24,7 +24,7 @@ public class MediaSearchController {
 	private MediaFinderService mediaFinderService;
 
 	@GetMapping(value = "/media")
-	@ApiOperation(value="Fetches list of albumns and books matching the searchString. "
+	@ApiOperation(value="Fetches list of albums and books matching the searchString. "
 			+ "By default the reponse contains maximum of 5 books and albums each.")
 	public @ResponseBody MediaItems getMedia(@RequestParam("searchString") String searchString,
 			@RequestParam(name = "limit", defaultValue = "5") int limit) 
